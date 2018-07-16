@@ -9,11 +9,11 @@
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-isRunning KEYWORD2
-begin KEYWORD2
+isRunning	KEYWORD2
+begin	KEYWORD2
 get	KEYWORD2
-set KEYWORD2
-read KEYWORD2
+set	KEYWORD2
+read	KEYWORD2
 #######################################
 # Instances (KEYWORD2)
 #######################################
